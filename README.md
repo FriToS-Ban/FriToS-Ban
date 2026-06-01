@@ -1,11 +1,9 @@
 # Hi, I'm Shibasish Banerjee 👋
  
-· <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5feca62b-8c2c-45c5-9acb-0cdf767d59af" /> Undergrad at IIT Roorkee
-· <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f85ff790-6e7b-4699-99f8-21a1e669edff" /> Interested in AI & software engineering
-· <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0342cde8-d990-4887-b347-14b3127b7832" /> Building LLM agents & ML systems
-· <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/100fe75a-dc23-4d7f-a63e-8ce0e48e810c" /> Open to internships
-
----
+· <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/5feca62b-8c2c-45c5-9acb-0cdf767d59af" /> Undergrad at IIT Roorkee
+· <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/f85ff790-6e7b-4699-99f8-21a1e669edff" /> Interested in AI & software engineering
+· <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/0342cde8-d990-4887-b347-14b3127b7832" /> Building LLM agents & ML systems
+· <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/100fe75a-dc23-4d7f-a63e-8ce0e48e810c" /> Open to internships
 
 ## 🧠 Focus
 · LLM agents
@@ -15,13 +13,6 @@
 · LangGraph
 · FastAPI
 
-## 🛠️ Stack
-```
-Python · C++ · JavaScript · SQL
-FastAPI · React · LangGraph · scikit-learn · XGBoost · PostgreSQL
-```
-
----
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shibasish-banerjee/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shibasishb2005@gmail.com) 
 
